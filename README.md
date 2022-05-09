@@ -109,8 +109,6 @@ Project Link: [https://github.com/javiermendez-coder/my_launchx_app](https://git
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [contributors-shield]: https://img.shields.io/github/contributors/javiermendez-coder/my_launchx_app.svg?style=for-the-badge
 [contributors-url]: https://github.com/javiermendez-coder/my_launchx_app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/javiermendez-coder/my_launchx_app.svg?style=for-the-badge
