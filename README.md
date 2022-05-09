@@ -5,13 +5,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/javiermendez-coder/my_launchx_app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My JavaScript App</h3>
@@ -27,8 +25,6 @@
     <a href="https://github.com/javiermendez-coder/my_launchx_app/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,34 +48,30 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Practice project designed by [Carlo Gilmar][carlogilmar] aimed to teach a common way to structure of a JavaScript project along with its unit tests.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [JavaScript](https://www.javascript.com/)
-* [Jest](https://jestjs.io/)
+- [JavaScript](https://www.javascript.com/)
+- [Jest](https://jestjs.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* npm
+- npm
   ```sh
   npm install npm@latest -g
   ```
@@ -97,9 +89,8 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Javier Méndez - javiermendez0299@gmail.com.com
@@ -108,20 +99,18 @@ Project Link: [https://github.com/javiermendez-coder/my_launchx_app](https://git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Carlo Gilmar][carlogilmar]
-* [Launch X][launchx]
+- [Carlo Gilmar][carlogilmar]
+- [Launch X][launchx]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/javiermendez-coder/my_launchx_app.svg?style=for-the-badge
 [contributors-url]: https://github.com/javiermendez-coder/my_launchx_app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/javiermendez-coder/my_launchx_app.svg?style=for-the-badge
