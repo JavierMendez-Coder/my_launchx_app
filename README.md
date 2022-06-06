@@ -52,7 +52,7 @@
 
 ## About The Project
 
-Practice project designed by [Carlo Gilmar][carlogilmar] aimed to teach a common way to structure of a JavaScript project along with its unit tests.
+Practice project designed by [Carlo Gilmar][carlogilmar] aimed to teach a common way to structure a JavaScript project along with its unit tests.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
